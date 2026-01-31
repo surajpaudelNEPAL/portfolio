@@ -7,16 +7,16 @@ const Projects = () => {
     {
       title: 'FishTechy',
       category: 'AI Fishing App',
-      description: 'An AI-powered application allowing anglers to log catches using image processing and virtual challenges.',
-      tags: ['Flutter', 'AI/ML', 'Image Processing'],
-      link: '#'
+      description: 'Revolutionary fish measurement tool using smartphone & "Proof Ball" technology. Features "SMART Log" for automatic catch tracking and "Measuring for Science" citizen initiative. Privacy-focused.',
+      tags: ['Flutter', 'AI/ML', 'Citizen Science', 'Data Privacy'],
+      link: 'https://fishtechy.com/'
     },
     {
       title: 'Aquabuildr',
       category: 'AI Aquarium Platform',
-      description: 'AI platform assisting aquarium enthusiasts with tank optimization, fish compatibility, and community sharing.',
-      tags: ['Flutter', 'Algorithms', 'Community'],
-      link: '#'
+      description: 'Intelligent algorithm for aquarium enthusiasts that suggests compatible fish based on tank parameters (pH, Temp, Size). Features custom tank builder and expert care guides.',
+      tags: ['Flutter', 'Algorithms', 'Smart Tools', 'Community'],
+      link: 'https://aquabuildr.com/'
     },
     {
       title: 'Saro',

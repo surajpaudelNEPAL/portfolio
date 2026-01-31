@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-dark-bg text-white font-sans;
+  }
+}
+
+.glass-card {
+  @apply bg-white/5 backdrop-blur-lg border border-white/10 rounded-xl shadow-xl;
+}
+
+.neon-text {
+  @apply text-transparent bg-clip-text bg-gradient-to-r from-neon-blue to-neon-purple;
+}
